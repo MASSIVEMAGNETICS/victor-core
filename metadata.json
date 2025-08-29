@@ -1,0 +1,5 @@
+{
+  "name": "Victor Core Visualization",
+  "description": "An interactive web application to visualize the four core principles of the Victor Core, a theoretical design for an automata-based consciousness engine. The visualization demonstrates the Always-On Subconscious, Hierarchical Multi-threading, Pulse Telemetry, and Fractal Memory in a dynamic dashboard.",
+  "requestFramePermissions": []
+}
